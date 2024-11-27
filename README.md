@@ -18,7 +18,7 @@ Welcome to my captivating 3D portfolio website project! Harnessing the power of 
 - **Optimized Performance**: Employ Suspense and Preload techniques to deliver a blazing-fast user experience.
 
 ## 🌐 Live Demo
-Experience it in action! Check out the <a href="https://shridharportfolio.netlify.app/" target="_blank">Live Demo</a>.
+Experience it in action! Check out the <a href="https://dkpwebsite.netlify.app/" target="_blank">Live Demo</a>.
 
 
 ## 🛠️ Usage
